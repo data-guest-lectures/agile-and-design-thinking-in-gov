@@ -13,7 +13,7 @@ class: center,middle
 
 ## Richard Dunks
 ![img-center-35](images/datapolitan.png)
-### Follow along at: http://bit.ly/NYU_ITF
+### Follow along at: https://data-guest-lectures.github.io/agile-and-design-thinking-in-gov/
 
 ---
 
